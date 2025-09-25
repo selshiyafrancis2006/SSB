@@ -52,7 +52,9 @@ Model Waveform
 <img width="706" height="167" alt="image" src="https://github.com/user-attachments/assets/bff0d8fd-d679-444e-af37-0b34585853c1" />
 
 Program
-<img width="691" height="741" alt="image" src="https://github.com/user-attachments/assets/a6ee82f5-6bc3-49ea-a033-c62d788f7bde" />
+
+<img width="691" height="741" alt="image" src="https://github.com/user-attachments/assets/cb859390-6c36-422a-8877-8f9d7e97cdfe" />
+
 
 
 OUTPUT WAVEFORM
